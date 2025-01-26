@@ -1,0 +1,6 @@
+jupyter
+nbconvert
+quarto
+pandas
+matplotlib
+seaborn
